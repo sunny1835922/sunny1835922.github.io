@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Now Active on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/now-active/</link>
+    <link>/categories/now-active/</link>
     <description>Recent content in Now Active on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/now-active/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/now-active/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>小丫</title>
-      <link>https://example.org/2016/01/%E5%B0%8F%E4%B8%AB/</link>
+      <link>/2016/01/%E5%B0%8F%E4%B8%AB/</link>
       <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/01/%E5%B0%8F%E4%B8%AB/</guid>
+      <guid>/2016/01/%E5%B0%8F%E4%B8%AB/</guid>
       <description>&lt;h1 id=&#34;品种-泰迪&#34;&gt;品种：泰迪&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  
@@ -48,10 +48,10 @@
     
     <item>
       <title>球球</title>
-      <link>https://example.org/2016/01/%E7%90%83%E7%90%83/</link>
+      <link>/2016/01/%E7%90%83%E7%90%83/</link>
       <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/01/%E7%90%83%E7%90%83/</guid>
+      <guid>/2016/01/%E7%90%83%E7%90%83/</guid>
       <description>&lt;h1 id=&#34;品种-泰迪&#34;&gt;品种：泰迪&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  

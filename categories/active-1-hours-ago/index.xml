@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Active 1 Hours Ago on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/active-1-hours-ago/</link>
+    <link>/categories/active-1-hours-ago/</link>
     <description>Recent content in Active 1 Hours Ago on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 May 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/active-1-hours-ago/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/active-1-hours-ago/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>啦啦</title>
-      <link>https://example.org/2016/05/%E5%95%A6%E5%95%A6/</link>
+      <link>/2016/05/%E5%95%A6%E5%95%A6/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/05/%E5%95%A6%E5%95%A6/</guid>
+      <guid>/2016/05/%E5%95%A6%E5%95%A6/</guid>
       <description>&lt;h1 id=&#34;品种-拉布拉多&#34;&gt;品种：拉布拉多&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  
@@ -48,10 +48,10 @@
     
     <item>
       <title>嘟嘟</title>
-      <link>https://example.org/2016/05/%E5%98%9F%E5%98%9F/</link>
+      <link>/2016/05/%E5%98%9F%E5%98%9F/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/05/%E5%98%9F%E5%98%9F/</guid>
+      <guid>/2016/05/%E5%98%9F%E5%98%9F/</guid>
       <description>&lt;h1 id=&#34;品种-萨摩耶&#34;&gt;品种：萨摩耶&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  
@@ -91,10 +91,10 @@
     
     <item>
       <title>萌萌哒</title>
-      <link>https://example.org/2016/05/%E8%90%8C%E8%90%8C%E5%93%92/</link>
+      <link>/2016/05/%E8%90%8C%E8%90%8C%E5%93%92/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/05/%E8%90%8C%E8%90%8C%E5%93%92/</guid>
+      <guid>/2016/05/%E8%90%8C%E8%90%8C%E5%93%92/</guid>
       <description>&lt;h1 id=&#34;品种-雪纳瑞&#34;&gt;品种：雪纳瑞&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  
@@ -134,10 +134,10 @@
     
     <item>
       <title>黑黑</title>
-      <link>https://example.org/2016/05/%E9%BB%91%E9%BB%91/</link>
+      <link>/2016/05/%E9%BB%91%E9%BB%91/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/05/%E9%BB%91%E9%BB%91/</guid>
+      <guid>/2016/05/%E9%BB%91%E9%BB%91/</guid>
       <description>&lt;h1 id=&#34;品种-拉布拉多&#34;&gt;品种：拉布拉多&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  
@@ -173,10 +173,10 @@
     
     <item>
       <title>A宝</title>
-      <link>https://example.org/2016/01/a%E5%AE%9D/</link>
+      <link>/2016/01/a%E5%AE%9D/</link>
       <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/01/a%E5%AE%9D/</guid>
+      <guid>/2016/01/a%E5%AE%9D/</guid>
       <description>&lt;h1 id=&#34;品种-边境牧羊犬&#34;&gt;品种：边境牧羊犬&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  

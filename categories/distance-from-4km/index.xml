@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Distance From 4km on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/distance-from-4km/</link>
+    <link>/categories/distance-from-4km/</link>
     <description>Recent content in Distance From 4km on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/distance-from-4km/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/distance-from-4km/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>大可爱</title>
-      <link>https://example.org/2016/01/%E5%A4%A7%E5%8F%AF%E7%88%B1/</link>
+      <link>/2016/01/%E5%A4%A7%E5%8F%AF%E7%88%B1/</link>
       <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/01/%E5%A4%A7%E5%8F%AF%E7%88%B1/</guid>
+      <guid>/2016/01/%E5%A4%A7%E5%8F%AF%E7%88%B1/</guid>
       <description>&lt;h1 id=&#34;品种-金毛&#34;&gt;品种：金毛&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  
@@ -56,10 +56,10 @@
     
     <item>
       <title>宝宝</title>
-      <link>https://example.org/2016/01/%E5%AE%9D%E5%AE%9D/</link>
+      <link>/2016/01/%E5%AE%9D%E5%AE%9D/</link>
       <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/01/%E5%AE%9D%E5%AE%9D/</guid>
+      <guid>/2016/01/%E5%AE%9D%E5%AE%9D/</guid>
       <description>&lt;h1 id=&#34;品种-金毛&#34;&gt;品种：金毛&lt;/h1&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;  
