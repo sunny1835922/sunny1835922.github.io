@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo tranquilpeak theme</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>啦啦</title>
+      <link>https://example.org/2016/05/%E5%95%A6%E5%95%A6/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/05/%E5%95%A6%E5%95%A6/</guid>
+      <description>&lt;h1 id=&#34;品种-拉布拉多&#34;&gt;品种：拉布拉多&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：女 （ 1年1个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;很喜欢出门，每次准备出门那小尾巴摇的呀&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢吃水果&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;莲坂&lt;/li&gt;
+&lt;li&gt;五缘湾&lt;/li&gt;
+&lt;li&gt;湖里万达&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>嘟嘟</title>
+      <link>https://example.org/2016/05/%E5%98%9F%E5%98%9F/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/05/%E5%98%9F%E5%98%9F/</guid>
+      <description>&lt;h1 id=&#34;品种-萨摩耶&#34;&gt;品种：萨摩耶&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：女 （ 6个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert info &#34;&gt;
+  &lt;p&gt;有人要抱养吗？送人&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;很喜欢洗澡，每次都很乖&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert warning &#34;&gt;
+  &lt;p&gt;不能吃**牌子的狗粮，会拉肚子&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢跑步，淑女范&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;明发商业广场&lt;/li&gt;
+&lt;li&gt;湖边花园&lt;/li&gt;
+&lt;li&gt;石鼓路&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>萌萌哒</title>
+      <link>https://example.org/2016/05/%E8%90%8C%E8%90%8C%E5%93%92/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/05/%E8%90%8C%E8%90%8C%E5%93%92/</guid>
+      <description>&lt;h1 id=&#34;品种-雪纳瑞&#34;&gt;品种：雪纳瑞&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：男（ 1年3个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert info &#34;&gt;
+  &lt;p&gt;有人一起溜溜吗？&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;很喜欢洗澡，香喷喷&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert warning &#34;&gt;
+  &lt;p&gt;不能让他在沙发睡觉，会不小心坐到他，体型太小了&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢吃蔬菜&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;明发商业广场&lt;/li&gt;
+&lt;li&gt;五缘湾&lt;/li&gt;
+&lt;li&gt;各种奶茶店&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>黑黑</title>
+      <link>https://example.org/2016/05/%E9%BB%91%E9%BB%91/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/05/%E9%BB%91%E9%BB%91/</guid>
+      <description>&lt;h1 id=&#34;品种-拉布拉多&#34;&gt;品种：拉布拉多&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：女 （ 1年1个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert info &#34;&gt;
+  &lt;p&gt;好黑呀 有没有看上眼的  相亲相亲&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;很喜欢洗澡，香喷喷&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢啃骨头，很奇怪&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;莲坂&lt;/li&gt;
+&lt;li&gt;五缘湾&lt;/li&gt;
+&lt;li&gt;集美&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A宝</title>
+      <link>https://example.org/2016/01/a%E5%AE%9D/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/01/a%E5%AE%9D/</guid>
+      <description>&lt;h1 id=&#34;品种-边境牧羊犬&#34;&gt;品种：边境牧羊犬&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：男 （ 1年）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert info &#34;&gt;
+  &lt;p&gt;美男子，纯种，配种联系我&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;爱跑步，特别是傍晚的时候&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢打针&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;各种公园&lt;/li&gt;
+&lt;li&gt;狐尾山&lt;/li&gt;
+&lt;li&gt;海沧&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>大可爱</title>
+      <link>https://example.org/2016/01/%E5%A4%A7%E5%8F%AF%E7%88%B1/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/01/%E5%A4%A7%E5%8F%AF%E7%88%B1/</guid>
+      <description>&lt;h1 id=&#34;品种-金毛&#34;&gt;品种：金毛&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：女 （9个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert info &#34;&gt;
+  &lt;p&gt;有没有纯种的公金毛？我想给她配个种&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;很喜欢洗澡，每次都很乖&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert warning &#34;&gt;
+  &lt;p&gt;不能吃**牌子的狗粮，会拉肚子&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢跑步，比较淑女，哈哈哈&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;明发商业广场&lt;/li&gt;
+&lt;li&gt;湖边花园&lt;/li&gt;
+&lt;li&gt;石鼓路&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>宝宝</title>
+      <link>https://example.org/2016/01/%E5%AE%9D%E5%AE%9D/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/01/%E5%AE%9D%E5%AE%9D/</guid>
+      <description>&lt;h1 id=&#34;品种-金毛&#34;&gt;品种：金毛&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：男 （11个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert info &#34;&gt;
+  &lt;p&gt;早上有没有一起溜宠的？&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;很喜欢吃肉&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢穿毛衣&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;五缘湾湿地公园&lt;/li&gt;
+&lt;li&gt;湖边花园&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小丫</title>
+      <link>https://example.org/2016/01/%E5%B0%8F%E4%B8%AB/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/01/%E5%B0%8F%E4%B8%AB/</guid>
+      <description>&lt;h1 id=&#34;品种-泰迪&#34;&gt;品种：泰迪&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;                                            好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：男 （ 6个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;喜欢吃，哈哈哈哈&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢水，每次洗澡都要操心&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;五缘湾&lt;/li&gt;
+&lt;li&gt;中山路&lt;/li&gt;
+&lt;li&gt;石鼓路&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>球球</title>
+      <link>https://example.org/2016/01/%E7%90%83%E7%90%83/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2016/01/%E7%90%83%E7%90%83/</guid>
+      <description>&lt;h1 id=&#34;品种-泰迪&#34;&gt;品种：泰迪&lt;/h1&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;  
+        function showDialog(){
+            alert(&#34;                                            好友请求已发送&#34;);
+        }
+&lt;/script&gt;
+
+&lt;p&gt;性别：女 （ 8个月）   &lt;a onclick=&#34;showDialog()&#34;&gt;加好友&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert success &#34;&gt;
+  &lt;p&gt;喜欢逛公园&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert danger &#34;&gt;
+  &lt;p&gt;不喜欢穿毛衣，每次穿都乱咬毛衣&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;经常出没的地方&#34;&gt;经常出没的地方&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;明发商业广场&lt;/li&gt;
+&lt;li&gt;环岛路&lt;/li&gt;
+&lt;li&gt;石鼓路&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>宠你</title>
+      <link>https://example.org/2014/06/%E5%AE%A0%E4%BD%A0/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2014/06/%E5%AE%A0%E4%BD%A0/</guid>
+      <description>&lt;h1 id=&#34;宠你-网上交友平台&#34;&gt;“宠你”————网上交友平台&lt;/h1&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>博美犬（品种介绍）</title>
+      <link>https://example.org/1/01/%E5%8D%9A%E7%BE%8E%E7%8A%AC%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/1/01/%E5%8D%9A%E7%BE%8E%E7%8A%AC%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</guid>
+      <description>&lt;p&gt;博美是一种紧凑、短背、活跃的玩赏犬，学名哈多利系博美犬（俗称英系博美犬），是德国狐狸犬的一种，原产德国。它拥有柔软、浓密的底毛和粗硬的皮毛。
+尾根位置很高，长有浓密饰毛的尾巴卷放在背上。它具有警惕的性格、聪明的表情、轻快的举止和好奇的天性。体型小巧可爱，适合当伴侣犬，白色和棕色的居多。德国狐狸犬，包括荷兰毛狮犬，大型狐狸犬，中型狐狸犬，小型狐狸犬和松鼠犬（也就是博美犬），同时也是很有竞争力的比赛犬。其毛色有白、偏黄奶油、花色、黑、红、棕等。
+中文学名哈多利系博美犬 拉丁学名 Canis lupus familiaris 别    称波美拉尼亚犬、松鼠犬 二名法 波美拉尼亚犬、松鼠犬 界 动物界 门脊索动物门 亚    门脊椎动物亚门 纲哺乳纲 亚    纲真兽亚纲 目食肉目 亚    目裂脚亚目 科犬科 亚    科犬亚科 属犬属 亚    属 犬 种 灰狼 亚    种家犬 分布区域 德国、日本、美国 类    型 小型犬 肩    高 22-28cm 体    重 3.5kg以下 功    能 玩具犬和伴侣犬 原产地 德国 波美拉尼亚地区 颜色分类 白色，黑色，咖啡，橘黄，红色 英文名 Pomeranian 性    格温顺，积极，友善&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>巴哥犬（品种介绍）</title>
+      <link>https://example.org/1/01/%E5%B7%B4%E5%93%A5%E7%8A%AC%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/1/01/%E5%B7%B4%E5%93%A5%E7%8A%AC%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</guid>
+      <description>&lt;p&gt;巴哥犬（pug），原产于中国，富有魅力而且高雅，14世纪末正式命名为“巴哥”其词意古语为“锤头”、“小丑”，狮子鼻或小猴子的意思。巴哥犬容易有睫毛倒插的毛病，头部皱折多，也容易泪管阻塞，而有两条明显的泪痕。
+巴哥犬是体贴，可爱的小型犬种，不需要运动或经常整理背毛，但需要同伴。容貌皱纹较多，走起路来象拳击手是其特征。它是以咕噜的呼吸声及像马一样抽鼻子的声音作为沟通的方式。同时，此犬具备优良及爱干净的个性，这些特色便成为广受喜爱的原因。
+中文学名 巴哥犬、八哥犬 拉丁学名 Canis lupus familiaris  别    称 巴哥、八哥、荷兰犬、斧头犬 界 动物界 门脊索动物门 亚    门脊椎动物亚门 纲哺乳纲 亚    纲真兽亚纲 目食肉目 亚    目裂脚亚目 科犬科 亚    科犬亚科 族 犬 属犬属 种 灰狼 亚    种家犬 分布区域 全世界 发源地 中国 用    途 伴侣犬、守门犬 体    型 小型犬 英文名 Pug 寿    命 13-14年&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>泰迪（品种介绍）</title>
+      <link>https://example.org/1/01/%E6%B3%B0%E8%BF%AA%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/1/01/%E6%B3%B0%E8%BF%AA%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</guid>
+      <description>&lt;p&gt;贵宾犬在法国被视为国犬，很多人认为贵宾犬原产于法国，但许多国家仍对贵宾犬的起源争执不休，都想把它据为己有。德国、前苏联、意大利等国均各抒己见，认为有些品种的贵宾犬产于他们的国家，如白毛品种以法国居多，棕毛品种多产于德国，黑毛品种以前苏联为多，茶褐色品种则以意大利为多。有些史学家深信，德国、前苏联、法国在贵宾犬的发展过程中，均扮演过极其重要的角色[1]  。贵宾犬起源于欧洲，具体是哪个国家还有争议。贵宾犬以水中捕猎而著称，是水猎犬。但是只有标准贵宾具有工作能力。它是聪明而善解人意的犬种。多年以来，它一直被认为是法国的国犬。贵宾犬根据体型大小被AKC标准分为标准型，迷你型，玩具型三种。而FCI把它们分为大型，中型，迷你型，玩具型四种。贵宾犬气质独特，造型多变，赢得了许多人的欢心，给人一种漂亮的、聪明的印象。值得注意的是，并没有泰迪这个品种的犬，泰迪不是犬种，它只是贵宾犬众多美容造型中的一种的名称。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>边境牧羊犬（品种介绍）</title>
+      <link>https://example.org/1/01/%E8%BE%B9%E5%A2%83%E7%89%A7%E7%BE%8A%E7%8A%AC%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/1/01/%E8%BE%B9%E5%A2%83%E7%89%A7%E7%BE%8A%E7%8A%AC%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</guid>
+      <description>&lt;p&gt;边境牧羊犬（Border Collie）原产于苏格兰边境，为柯利牧羊犬的一种，具有强烈的牧羊本能，天性聪颖、善于察言观色，能准确明白主人的指示，可借由眼神的注视而驱动羊群移动或旋转，被当成牧羊犬已有多年的历史，在世界犬种智商排行第一名。
+特点是聪明、学习能力强、理解力高、容易训练、善于与人类沟通、温和、忠诚、服从性好，其忠心程度可以用如影随形来形容，由于温和忠诚的性格不乱叫，一度成为最受城市人口家养的宠儿。而且边境牧羊犬还是飞盘狗最具竞争力的犬种，是历年飞盘狗世界杯大赛的主角。
+中文学名 边境牧羊犬                               别    称 边境柯利犬
+界 动物界                                         门       脊索动物门
+亚    门脊椎动物亚门 纲哺乳纲 亚    纲真兽亚纲 目食肉目 亚    目裂脚亚目 科犬科 亚    科犬亚科 属犬属 种 灰狼 亚    种 家犬
+分布区域 英国、美国、澳洲
+英文名 Border Collie                               身    高 46-54cm
+体    重 14-22Kg                                   寿    命 12-13年
+市场参考价 1000以上                                智商排名 1
+常见颜色 黑白，陨石色（黑白灰），棕白&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>金毛（品种介绍）</title>
+      <link>https://example.org/1/01/%E9%87%91%E6%AF%9B%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/1/01/%E9%87%91%E6%AF%9B%E5%93%81%E7%A7%8D%E4%BB%8B%E7%BB%8D/</guid>
+      <description>&lt;p&gt;金毛寻回犬（英语：Golden Retriever）是比较现代并很流行的狗的品种，是单猎犬，作为用来在猎捕野禽的寻回犬而培养出来的，游泳的续航力极佳。
+金毛寻回犬它是最常见的家犬之一，因为它很容易养，有耐心并且对主人要求不多，只要定期的运动，食物和兽医体检就可以了。金毛的独特之处在于它讨人喜欢的性格，是属于匀称、有力、活泼的一个犬种，特征是稳固、身体各部位配合合理，腿既不太长也不笨拙，表情友善，个性热情、机警、自信而且不怕生。金毛犬最早是一种寻回猎犬。现在大多作为导盲犬与宠物狗。对小孩子或者婴儿十分友善。金毛犬是位列世界犬种智商排行的第四名。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
